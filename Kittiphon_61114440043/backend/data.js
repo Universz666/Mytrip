@@ -1,0 +1,68 @@
+const products =  [
+    {
+      _id: "1",
+      url: "https://scontent.fubp1-1.fna.fbcdn.net/v/t1.0-9/134111156_3818343884872136_1797737605675360453_o.jpg?_nc_cat=103&ccb=3&_nc_sid=e3f864&_nc_eui2=AeHSgSpE3M4kEecmk-8Miw81mnFUWsGMRayacVRawYxFrM98A1ktIBeGaOysDQB75Nd65-ntriKOlHIxAL8MIS_2&_nc_ohc=0N1BJroSTmkAX90FyFn&_nc_ht=scontent.fubp1-1.fna&oh=e4e84463f2030903582e9e7faa10dc63&oe=605D1D78",
+      name: "อุบลราชธานี",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 799,
+      stars: 5,
+    },
+    {
+      _id: "2",
+      url: "http://chailaibackpacker.com/wp-content/uploads/2018/09/SISAKET-Cover-Main-777x437.jpg",
+      name: "ศรีสะเกษ",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 699,
+      stars: 4.5,
+    },
+    {
+      _id: "3",
+      url: "https://cms.dmpcdn.com/travel/2020/10/28/707213a0-1904-11eb-a49c-f9527329ab7b_original.jpg",
+      name: "ยโสธร",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 399,
+      stars: 4.2,
+    },
+    {
+      _id: "4",
+      url: "https://my.kapook.com/imagescontent/fb_img/882/s_127501_2167.jpg",
+      name: "อำนาจเจริญ",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 399,
+      stars: 4.0,
+    },
+    {
+      _id: "5",
+      url: "https://img.wongnai.com/p/1920x0/2019/03/08/e375338c4d844a738dcdd74412656d5b.jpg",
+      name: "มุกดาหาร",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 599,
+      stars: 4.5,
+    },
+    {
+      _id: "6",
+      url: "https://www.rakyimtour.com/wp-content/uploads/2020/10/%E0%B8%AB%E0%B8%AD%E0%B9%82%E0%B8%AB%E0%B8%A7%E0%B8%94-%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%94-%E0%B9%91%E0%B9%90%E0%B9%91-ROI-ET-Tower-10.jpg",
+      name: "ร้อยเอ็ด",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 499,
+      stars: 4.5,
+    },
+    {
+      _id: "7",
+      url: "http://www.chaicatawan.com/wp-content/uploads/2018/08/31.jpg",
+      name: "นครพนม",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 699,
+      stars: 4.5,
+    },
+    {
+      _id: "8",
+      url: "https://images.squarespace-cdn.com/content/v1/58c0c62bd2b8574cf9ae84f9/1567429048413-VIBBT0PNKZR9TA99IIDZ/ke17ZwdGBToddI8pDm48kFN-DFK1eK1PdvHSeEQ1GP0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcFIoCwPUUROYypBbsYOujNOakZzbzuWrSBZfGME0UrenMfGwpnj3Jnm5oDK-kfQ-z/Banner_regis-%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C.jpg?format=750w",
+      name: " บุรีรัมย์ ",
+      program: "ที่พักโรงแรมหรูพร้อมอาหารเช้า",
+      price: 599,
+      stars: 4.5,
+    },
+  ];
+
+export default products;
